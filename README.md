@@ -1,5 +1,5 @@
 {
-"SendMessage":1,
+"SendMessage":2,
 "MyMessage":
 "PLDT HOME FIBR is now available in. your area..
 Try our NEW PLAN,mas pinababa at mas pinabilis...
