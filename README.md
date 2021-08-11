@@ -1,5 +1,5 @@
 {
-"SendMessage":8,
+"SendMessage":1,
 "MyMessage":
 "notes ng text mopo dito"
 }
