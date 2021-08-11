@@ -1,21 +1,11 @@
 {
-"SendMessage":2,
+"SendMessage":3,
 "MyMessage":
-"PLDT HOME FIBR is now available in. your area..
-Try our NEW PLAN,mas pinababa at mas pinabilis...
-APPLY NOW!!!!
-NO CASH OUT AND FREE ACTIVATION FOR PLAN ✔️1599--35mbps..
-✔️2099--60mbps
-FREE LANDLINE
-+free PHW☺️☺️☺️
-UNLIMITED INTERNET
-San ka pa?mag PLDT kna..
+"                          Dear Users
 
-PLDT.
-ASENSO PLAN.
+   If you are experiencing no browse ,or       Connected but cant played video videos, you are  not alone, some user's is experience it too, it is due to Globe slow         network,or maybe there is an going ,Globe maintenance in your area, or you can try to do step, i hope it helps
 
-Need Faster & Bigger Internet Connection for your Business? Deal with me.
-
-Call or text me! 
-09161987229 ♥️"
+Connected but can't play videos? try to changing your server and navigate to Settings and turn on Forward DNS
+      
+                            -Sam 🧡 "
 }
