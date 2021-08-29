@@ -1,4 +1,5 @@
 {
-"SendMessage":14,
+"SendMessage":15,
 "MyMessage":
-" 💌💌💌 Use your mind to to use noload connection, thank you 💌💌💌"}
+" 💌💌💌 Use your mind to to use noload connection,
+thanks for support the apps🧡 💌💌💌"}
