@@ -1,1 +1,1 @@
-{ "SendMessage":18.1, "MyMessage": " 💌Dear User... \n\nNotes: \nYou need to finish the video to claim your time reward..  \n\n💌💌 If connected but no browse use flight mode to refresh your IP .💌💌💌 \n\n🧡sam🧡"}
+{ "SendMessage":18.2, "MyMessage": " 💌Dear User... \n\nNotes: \nYou need to finish the video to claim your time reward..  \n\n💌💌 If connected but no browse ,Go to settings and change your APN .💌💌💌 \n\n🧡sam🧡"}
