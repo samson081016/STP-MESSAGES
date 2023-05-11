@@ -1,1 +1,1 @@
-{ "SendMessage":01, "MyMessage": "Notes: \nWelcome \n Good News Our VPN IS No Limit, Para maka connect sa GLobe/Tm noload make sure na nka ip Hunt ka, pag error, you need to flight mode pra mkaHunt ng magic ip \n\n Promo Needed / GTM.Noload . \n\n by sam🤟"}
+{ "SendMessage":01, "MyMessage": "Notes: \nWelcome \n Goood News Our VPN IS No Limit, Para maka connect sa GLobe/Tm noload make sure na nka ip Hunt ka, pag error, you need to flight mode pra mkaHunt ng magic ip \n\n Promo Needed / GTM.Noload . \n\n by sam🤟"}
